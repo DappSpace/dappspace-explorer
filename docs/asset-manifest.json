@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/dappspace-explorer/static/css/main.8e8ae080.css",
-    "main.js": "/dappspace-explorer/static/js/main.314c0e2f.js",
+    "main.js": "/dappspace-explorer/static/js/main.cf76ccad.js",
     "static/media/bootstrap-icons.woff?": "/dappspace-explorer/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
     "static/media/bootstrap-icons.woff2?": "/dappspace-explorer/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
     "index.html": "/dappspace-explorer/index.html"
   },
   "entrypoints": [
     "static/css/main.8e8ae080.css",
-    "static/js/main.314c0e2f.js"
+    "static/js/main.cf76ccad.js"
   ]
 }
