@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.abe44977.css",
-    "main.js": "/static/js/main.900370c8.js",
-    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
-    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
-    "index.html": "/index.html"
+    "main.css": "/dappspace-explorer/static/css/main.8e8ae080.css",
+    "main.js": "/dappspace-explorer/static/js/main.900370c8.js",
+    "static/media/bootstrap-icons.woff?": "/dappspace-explorer/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
+    "static/media/bootstrap-icons.woff2?": "/dappspace-explorer/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
+    "index.html": "/dappspace-explorer/index.html"
   },
   "entrypoints": [
-    "static/css/main.abe44977.css",
+    "static/css/main.8e8ae080.css",
     "static/js/main.900370c8.js"
   ]
 }
